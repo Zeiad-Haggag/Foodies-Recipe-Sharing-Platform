@@ -8,7 +8,7 @@ The app features **server-side rendering**, **dynamic routing**, and a **respons
 
 ## 🚀 Live Demo
 
-[Click here to view the live demo](#) _(coming soon)_
+[Click here to view the live demo](https://foodies-recipe-sharing-platform.vercel.app/)
 
 ---
 
